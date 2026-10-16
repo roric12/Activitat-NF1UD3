@@ -382,7 +382,7 @@ sudo usermod -s /usr/bin/fish laura_dev
 grep laura_dev /etc/passwd
 ```
 
-> 📸 **[CAPTURA PENDENT]** – `which fish`, `usermod` i la línia de `/etc/passwd` acabant en `/usr/bin/fish`.
+
 
 **Comprovació:** l'últim camp de la línia de `laura_dev` a `/etc/passwd` ha de ser la ruta de fish.
 
@@ -393,7 +393,7 @@ su - laura_dev
 echo $SHELL
 ```
 
-> 📸 **[CAPTURA PENDENT]** – prompt de fish i resultat de `echo $SHELL`.
+
 
 **Comprovació:** en iniciar sessió amb `su -` es carrega l'entorn complet de l'usuari i apareix el prompt de fish, diferent del de bash. Amb `exit` es torna a l'usuari administrador.
 
