@@ -4,7 +4,7 @@
 
 - **Mòdul:** Sistemes operatius en xarxa – RA2
 - **Sistema:** Ubuntu Server (`sox-MB`)
-- **Alumne:** _(nom i cognoms)_ – Núm. de llista: 02
+- **Alumne:** _(Marc Bruguera)_ – Núm. de llista: 02
 
 ---
 
